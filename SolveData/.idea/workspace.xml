@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f13b8fc2-6e08-49f9-b1c1-9b49ccae29b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="ac483d51-43f3-4d4a-b4ad-8cc98c09427c" />
+  <component name="ProjectId" id="1SBxCxDXF5e9Jq0ryevWLsFTNoo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.item_featuresExtract">
+    <configuration name="item_featuresExtract" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SolveData" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/item_featuresExtract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solveData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SolveData" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\PycharmProjects\SolveData\user_featuresExtract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.item_featuresExtract" />
+        <item itemvalue="Python.solveData" />
+        <item itemvalue="Python.solveData" />
+        <item itemvalue="Python.solveData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f13b8fc2-6e08-49f9-b1c1-9b49ccae29b8" name="Default Changelist" comment="" />
+      <created>1571050667011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571050667011</updated>
+      <workItem from="1571050668329" duration="16050000" />
+      <workItem from="1571105015648" duration="103062000" />
+      <workItem from="1571486919861" duration="1364000" />
+      <workItem from="1571488420748" duration="5423000" />
+      <workItem from="1572059172533" duration="603000" />
+      <workItem from="1572608170809" duration="248000" />
+      <workItem from="1572620468240" duration="6093000" />
+      <workItem from="1572654140502" duration="6960000" />
+      <workItem from="1572861505578" duration="28182000" />
+      <workItem from="1572954722637" duration="23467000" />
+      <workItem from="1573111403377" duration="17101000" />
+      <workItem from="1573292133133" duration="1477000" />
+      <workItem from="1573295088953" duration="2130000" />
+      <workItem from="1573743621679" duration="642000" />
+      <workItem from="1574058608071" duration="20433000" />
+      <workItem from="1574216815849" duration="6021000" />
+      <workItem from="1574233217157" duration="3413000" />
+      <workItem from="1574237030615" duration="6020000" />
+      <workItem from="1574244216886" duration="46326000" />
+      <workItem from="1574865949432" duration="10630000" />
+      <workItem from="1574962361305" duration="49000" />
+      <workItem from="1574962621029" duration="21631000" />
+      <workItem from="1575123557314" duration="2103000" />
+      <workItem from="1575555148119" duration="2239000" />
+      <workItem from="1575560017962" duration="1674000" />
+      <workItem from="1575561831096" duration="141000" />
+      <workItem from="1580723531428" duration="10004000" />
+      <workItem from="1580810059713" duration="2929000" />
+      <workItem from="1580821408775" duration="17580000" />
+      <workItem from="1580888865540" duration="5018000" />
+      <workItem from="1580898628944" duration="8452000" />
+      <workItem from="1580913816102" duration="3876000" />
+      <workItem from="1580991592968" duration="15433000" />
+      <workItem from="1581069075011" duration="1320000" />
+      <workItem from="1581070402526" duration="5246000" />
+      <workItem from="1581077391655" duration="550000" />
+      <workItem from="1581077949162" duration="3551000" />
+      <workItem from="1581090293409" duration="9077000" />
+      <workItem from="1581175437746" duration="7883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="763" y="414" key="FileChooserDialogImpl" timestamp="1580795343098">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="763" y="414" key="FileChooserDialogImpl/0.0.2048.1240@0.0.2048.1240" timestamp="1580795343098" />
+    <state x="484" y="301" key="SettingsEditor" timestamp="1580795348344">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="484" y="301" key="SettingsEditor/0.0.2048.1240@0.0.2048.1240" timestamp="1580795348344" />
+    <state x="823" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1581175441647">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="823" y="365" key="com.intellij.ide.util.TipDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1581175441647" />
+    <state x="687" y="275" width="672" height="678" key="search.everywhere.popup" timestamp="1581266343800">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="687" y="275" width="672" height="678" key="search.everywhere.popup/0.0.2048.1240@0.0.2048.1240" timestamp="1581266343800" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SolveData$solveData.coverage" NAME="solveData Coverage Results" MODIFIED="1571055539080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SolveData$item_featuresExtract.coverage" NAME="item_featuresExtract Coverage Results" MODIFIED="1572620587777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
